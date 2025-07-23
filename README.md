@@ -86,7 +86,7 @@ Login page
 Home page
 
 <img width="904" height="534" alt="image" src="https://github.com/user-attachments/assets/7796995b-993e-4036-aa1f-43261b040439" />
-Short URL craetion
+Short URL creation
 
 <img width="1357" height="653" alt="image" src="https://github.com/user-attachments/assets/b4bae421-9bff-439d-9b92-fee8bfdec2fc" />
 
