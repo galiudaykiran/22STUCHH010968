@@ -83,14 +83,19 @@ Login page
 
 <img width="931" height="603" alt="image" src="https://github.com/user-attachments/assets/ee76838b-ae74-42ba-939c-a02cd3e8bf71" />
 
-Home page
+URL shortener 
+<img width="1286" height="615" alt="Screenshot 2025-07-24 164538" src="https://github.com/user-attachments/assets/febd1828-e546-4e71-b5f8-8689b637f2f1" />
 
-<img width="904" height="534" alt="image" src="https://github.com/user-attachments/assets/7796995b-993e-4036-aa1f-43261b040439" />
-Short URL creation
 
-<img width="1357" height="653" alt="image" src="https://github.com/user-attachments/assets/b4bae421-9bff-439d-9b92-fee8bfdec2fc" />
+Dashboard
+<img width="1149" height="673" alt="Screenshot 2025-07-24 164612" src="https://github.com/user-attachments/assets/07e462fa-6392-4f40-8f3d-4f6b1f5e47f9" />
 
-Statistics page 
-<img width="1356" height="685" alt="image" src="https://github.com/user-attachments/assets/792e8edf-98ca-4053-858f-f6d13c9dca41" />
+
+URL statistics(URLs)
+<img width="1264" height="681" alt="Screenshot 2025-07-24 164647" src="https://github.com/user-attachments/assets/45459f09-e43c-4041-a94d-1ca408a902a5" />
+
+
+URL statistics(Analytics)
+<img width="1246" height="590" alt="Screenshot 2025-07-24 164708" src="https://github.com/user-attachments/assets/7f3df6fd-78ed-4f77-8ae5-1e5d17d6d9ee" />
 
 
